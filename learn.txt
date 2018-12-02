@@ -1,0 +1,3 @@
+DevClub is IIT Delhi's software and website development club.
+
+It develops cool stuffs that benefits everyone in the campus. Some of which are- Study Portal to get past years' papers, books etc for almost every course taugnt in the institute; Review System to anonymously rate and review.
